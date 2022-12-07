@@ -1,2 +1,2 @@
-# shortest-path-algorithm
-An approach to Dijkstra's algorithm (of graph theory) in R.
+# Dijkstra's algorithm applied to R
+
