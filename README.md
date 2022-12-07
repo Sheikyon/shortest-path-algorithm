@@ -12,6 +12,6 @@ This is covered in more detail in [this article](https://sheikyon.nl/posts/assim
 * This can be done with ```install.packages("igraph")```.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License. You can see the [LICENSE](LICENSE) file for more details.
 
-And this script is coded in R. You are free to do whatever you like with it.
+And this script is coded in R. That's all you need to know.
