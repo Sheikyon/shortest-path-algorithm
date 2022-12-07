@@ -6,4 +6,12 @@ Dijkstra's algorithm is a powerful deterministic graph theory algorithm articula
 
 This is covered in more detail in [this article](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/), written by me.
 
-This script is coded in R. You are free to do whatever you like with it.
+### Prerequisites
+
+* Have the [igraph](https://igraph.org/) library installed to be able to manipulate and analyze the graphs with which Dijkstra's algorithm will be represented.
+* This can be done with ```install.packages("igraph")```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+And this script is coded in R. You are free to do whatever you like with it.
