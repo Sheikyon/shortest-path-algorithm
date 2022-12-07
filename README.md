@@ -9,7 +9,7 @@ This is covered in more detail in [this article](https://sheikyon.nl/posts/assim
 ### Prerequisites
 
 * Have the [igraph](https://igraph.org/) library installed to be able to manipulate and analyze the graphs with which Dijkstra's algorithm will be represented.
-* This can be done with ```install.packages("igraph")```
+* This can be done with ```install.packages("igraph")```.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
